@@ -1,0 +1,5 @@
+{"erlcount/src/*", [debug_info, {i, "erlcount/include/"}, {outdir, "erlcount/ebin/"}]}.
+{"erlcount/test/*", [debug_info, {i, "erlcount/include/"}, {outdir, "erlcount/ebin/"}]}.
+{"ppool/src/*", [debug_info, {i, "ppool/include/"}, {outdir, "ppool/ebin/"}]}.
+{"ppool/test/*", [debug_info, {i, "ppool/include/"}, {outdir, "ppool/ebin/"}]}.
+
